@@ -15,7 +15,7 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ## Overview
 
-Hello everyone. This is my first selfceoded React app. I belive the code is overcomplicated. So do my first steps. Will be glad for feedback and help :)
+Hello everyone. This is my first selfceoded React app. I believe the code is overcomplicated. So do my first steps. Will be glad for feedback and help :)
 
 ### The challenge
 
